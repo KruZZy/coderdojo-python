@@ -29,9 +29,10 @@ Apoi cele S secunde: intai x, apoi y.
 ```
 
 Dupa prima secunda, terenul arata asa:
-| --- | --- |
-| 2   |   1  |
-| 1   |   0  |
+| Linie in jos, coloana in dreapta | 1 | 2 |
+| --- | --- | --- |
+| **1**  | 2   |   1  |
+| **2** |1   |   0  |
 
 Dupa a doua:
 
