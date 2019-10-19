@@ -1,6 +1,6 @@
 # Functii :)
 
-- cum ar arata o functie care ar calcula produsul **_1*2*3*...*N_**?  (N sa fie introdus de utilizator)
+- cum ar arata o functie care ar calcula produsul **_1 * 2 * 3 *...*N_**?  (N sa fie introdus de utilizator)
   **HINT**: range
 - o functie care sa aiba ca parametru o lista si sa returneze lista inversata (pentru [1, 2, 3] sa returneze [3, 2, 1]
   **HINT**: vezi cifrul cu inversarea
