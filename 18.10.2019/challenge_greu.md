@@ -29,20 +29,22 @@ Apoi cele S secunde: intai x, apoi y.
 ```
 
 Dupa prima secunda, terenul arata asa:
-| Linie in jos, coloana in dreapta | 1 | 2 |
-| --- | --- | --- |
-| **1**  | 2   |   1  |
-| **2** |1   |   0  |
-
+```
+2 1
+1 0
+```
 Dupa a doua:
 
-| --- | --- |
-| 3   |   3  |
-| 1   |   1  |
+```
+3 3
+1 3
+```
 
 Iar dupa a 3-a:
 
+```
+4 3 
+3 2
+```
 
-| --- | --- |
-| 4   |   3  |
-| 3   |   2  |
+## Hinturi: o, nu.
