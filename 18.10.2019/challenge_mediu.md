@@ -6,3 +6,4 @@
   **HINT**: vezi cifrul cu inversarea
 - o functie care primeste ca parametrii o lista si un numar x si returneaza numarul de aparitii ale lui x in lista (pentru [1, 2, 3, 1] si x = 1 sa returneze 2)
   **HINT**: if
+ - o functie care primeste ca parametru un numar x si deseneaza un patrat de latura x folosind testoasa.
