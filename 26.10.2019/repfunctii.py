@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-f = np.arange(0, 10000)
+f = np.arange(0, 11)
 
-plt.plot(f, f, 'r', f, f**2, 'g')
+plt.plot(f, f, 'r', f, 2 ** f, 'g')
 plt.show()
